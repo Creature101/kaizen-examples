@@ -1,0 +1,15 @@
+{
+  "name": "kaizen-examples",
+  "version": "1.0.0",
+  "description": "KAIZEN example projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kaizen",
+    "dapp"
+  ],
+  "author": "",
+  "license": "MIT"
+}

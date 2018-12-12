@@ -1,0 +1,45 @@
+.file_upload {
+    margin-top: 0pt; }
+    .file_upload .uploader > div {
+      cursor: pointer;
+      width: 100% !important;
+      height: 50pt !important; }
+    .file_upload .uploader > div > p {
+      color: #ffffff;
+      padding: 15pt;
+      text-align: left;
+      line-height: 24pt; }
+    .file_upload h3 {
+      position: relative;
+      margin-bottom: 15pt;
+      padding: 0pt 0pt 0pt 25pt;
+      display: flex;
+      align-items: center;
+      justify-content: space-between; }
+      .file_upload h3:before {
+        content: "";
+        display: block;
+        width: 20pt;
+        height: 20pt;
+        /* background: url("../../../images/bullet.png") top left no-repeat; */
+        background-size: 100% auto;
+        position: absolute;
+        left: 0pt;
+        top: -6pt; }
+      .file_upload h3 span {
+        font-size: 12pt;
+        font-weight: 600;
+        color: #fff; }
+      .file_upload h3 svg {
+        width: 16pt !important;
+        height: 16pt !important;
+        color: #fff; }
+
+  .link {
+    font-size: 12pt; }
+    .link a {
+      color: #ffffff; }
+
+  .status_check > a {
+    color: #000000;
+    font-size: 12pt; }
